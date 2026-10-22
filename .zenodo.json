@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for source-bound NIR conformance evaluation. No admitted suite, framework execution, qualified numerical comparison or conformance certificate is released.",
+  "keywords": [
+    "NIR",
+    "neuromorphic computing",
+    "conformance evaluation",
+    "reproducibility"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "NIR Conformance",
+  "upload_type": "software"
+}

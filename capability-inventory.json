@@ -1,0 +1,12 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "qualified_owned_schema_ids": [],
+  "repository_name": "NIR-CONFORMANCE",
+  "source_metadata": {
+    "path": "repository-domain.json",
+    "sha256": "4ee9515bb3bee33e6b905d5c610e6dbf99fd3ed842c530128a81b0cc008f1148"
+  }
+}
