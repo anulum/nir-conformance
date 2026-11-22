@@ -12,6 +12,8 @@ NIR-CONFORMANCE — repository foundation
 
 NIR Conformance is being built to evaluate neuromorphic importer and exporter behaviour against a pinned NIR version, a complete declared suite and independently qualified reference results. It will retain import, export and round-trip evidence, numerical realisation, declared support and located differences. This checkout contains repository validation tooling and documentation. Full foundation qualification is in progress. There is no installed NIR-conformance package, conformance runner, public conformance command or qualified conformance certificate.
 
+NIR Conformance is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 ## Boundary
 
 This project owns the reference suite, independent semantic oracle, scoped conformance comparison and certificate. Divergence Harness supplies execution contracts and counterexample reduction. Frameworks retain their implementations. Evidence Manifest Toolkit owns shared evidence operations. Studio renders existing findings.
